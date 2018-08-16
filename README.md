@@ -22,12 +22,13 @@ Additional packages that reflect best practices can be found in the [packages fo
 ## Tech Specs
 
 The installation of this plug-in requires that the following components have been deployed and configured:
-- vRealize Orchestrator Version 7.3
-- vCenter Server compatible with vRealize Orchestrator Version 7.3
-- Solidfire Cluster running Element OS 9.0 through 10.0
+- vRealize Orchestrator Version 7.2
+- vCenter Server compatible with vRealize Orchestrator Version 7.2
+- Solidfire Cluster running Element OS 8.0 through 10.0
+- ESXi 6.0 or 6.5
 
 ### SolidFire & API Support
-- Element OS version 9.0 through 10.0
+- Element OS version 8.0 through 10.0
 
 ## Support
 
