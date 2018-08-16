@@ -6,9 +6,9 @@ The NetApp SolidFire vRealize Orchestrator Plug-in provides a convenient way to 
 
 ## Documentation
 
-[User Guide](vRO%20Plugin%201.4%20User%20Guide.pdf)
+[User Guide](vRO%20Plugin%201.5%20User%20Guide.pdf)
 
-[Release Notes](vRO%20Plugin%201.4%20Release%20Notes.pdf)
+[Release Notes](vRO%20Plugin%201.5%20Release%20Notes.pdf)
 
 ### Highlights
 
@@ -22,12 +22,12 @@ Additional packages that reflect best practices can be found in the [packages fo
 ## Tech Specs
 
 The installation of this plug-in requires that the following components have been deployed and configured:
-- vRealize Orchestrator Version 7.2
-- vCenter Server compatible with vRealize Orchestrator Version 7.2
-- Solidfire Cluster running Element OS Version 9.0 or above
+- vRealize Orchestrator Version 7.3
+- vCenter Server compatible with vRealize Orchestrator Version 7.3
+- Solidfire Cluster running Element OS 9.0 through 10.0
 
 ### SolidFire & API Support
-- Element OS Version 9.0 or above
+- Element OS version 9.0 through 10.0
 
 ## Support
 
